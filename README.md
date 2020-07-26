@@ -1,0 +1,2 @@
+# planovani-SPM
+kapacitní plánování
